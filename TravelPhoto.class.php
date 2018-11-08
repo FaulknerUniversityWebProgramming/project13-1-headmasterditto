@@ -7,5 +7,6 @@
 		private $latitude;
 		private $longitude;
 		private $ID;
+		static $photoID;
 	}
 ?>
